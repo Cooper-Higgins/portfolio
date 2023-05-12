@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/cooper-higgins/static/css/main.073c9b0a.css",
+    "main.js": "/cooper-higgins/static/js/main.80c560d9.js",
+    "static/js/787.1ed0c42c.chunk.js": "/cooper-higgins/static/js/787.1ed0c42c.chunk.js",
+    "static/media/logo.svg": "/cooper-higgins/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/cooper-higgins/index.html",
+    "main.073c9b0a.css.map": "/cooper-higgins/static/css/main.073c9b0a.css.map",
+    "main.80c560d9.js.map": "/cooper-higgins/static/js/main.80c560d9.js.map",
+    "787.1ed0c42c.chunk.js.map": "/cooper-higgins/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.80c560d9.js"
+  ]
+}
