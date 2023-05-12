@@ -1,9 +1,10 @@
 import React from "react";
+import '../App.css';
 
 const Home = () => (
   <div>
-    <h4>Home</h4>
-    <p>Welcome to our magical homepage</p>
+    <h1>This is a test!!!</h1>
+    <p>Testing this works</p>
   </div>
 );
 
