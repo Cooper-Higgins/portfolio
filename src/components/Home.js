@@ -2,9 +2,14 @@ import React from "react";
 import '../App.css';
 
 const Home = () => (
-  <div>
-    <h1>This is a test!!!</h1>
-    <p>Testing this works</p>
+  <div className="main-container">
+    <div className="main-content">
+      <h1>Hi! I'm Jamie Cooper-Higgins</h1>
+      <p>Chartered Marketer turned full-stack software developer.</p>
+    </div>
+    <div className="sidebar">
+      <img src="../images/headshot.jpg" alt="Headshot of someone that can't get an image to work..."/>
+    </div>
   </div>
 );
 

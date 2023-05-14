@@ -51,3 +51,25 @@ body {
 .menu li a:hover {
   text-decoration: underline;
 }
+
+.main-container {
+  display:flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.main-content {
+  padding: 2rem;
+  display: flex;
+  justify-content:center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.sidebar {
+  padding: 2rem;
+  display: flex;
+  justify-content:right;
+  align-items: right;
+  flex-direction: column;
+}
